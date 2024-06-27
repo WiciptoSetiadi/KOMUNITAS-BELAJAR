@@ -2,7 +2,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4;
+    background-color: #ffffcc; /* Ubah warna latar belakang menjadi kuning */
 }
 
 header {
@@ -51,7 +51,7 @@ h2 {
 }
 
 .profil h3, .catatan h3 {
-    color: #ffcc00; /* Warna kuning untuk grup kuning */
+    color: #ffcc00; /* Warna kuning untuk teks grup kuning */
 }
 
 footer {
